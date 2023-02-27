@@ -1,0 +1,37 @@
+body{
+  margin: 100px 25vw;
+  font-family: Arial, Helvetica, sans-serif;
+}
+p{
+  line-height: 1.2;
+  font-size: 1.05rem;
+  text-align: justify;
+}
+ul{
+  list-style-type: square;
+  line-height: 1.5;
+}
+figure{
+  margin: 0px 20px 20px 0px;
+  padding: 20px 20px 5px 20px;
+  border: 2px solid rgb(186, 186, 186);
+}
+figcaption{
+  color: #8e8e8e;
+}
+.staticsUsers{
+  padding: 20px;
+  float: left;
+}
+.threemonitors{
+  float: left;
+}
+.staticsUsers__respimg{
+  width: 100%;
+  max-width: 500px;
+  height: auto;
+}
+span{
+  font-weight: 700;
+}
+
